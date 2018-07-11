@@ -1,0 +1,18 @@
+---
+:source:
+  :path: test
+  :file: test_DummyTest.c
+:successes:
+- :test: test_throwException
+  :line: 14
+  :message: ''
+:failures: []
+:ignores: []
+:counts:
+  :total: 1
+  :passed: 1
+  :failed: 0
+  :ignored: 0
+:stdout:
+- Invalid value, expecting a '56', but received '40'
+- " (err=21)"
